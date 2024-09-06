@@ -1,5 +1,5 @@
 # Financial Feasibility Study
-In this project, I utilized data from Venture Capital Investment Data (source: Kaggle), which
+In this project, I utilized data from Venture Capital Investment Data (source: [Kaggle](https://www.kaggle.com/datasets/arindam235/startup-investments-crunchbase/data))
 includes venture capital investments in startup projects. My goal was to analyze the financial
 considerations of these projects and calculate the Return on Investment (ROI). 
 
